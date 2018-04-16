@@ -3,7 +3,7 @@ USE Ada.Text_IO,Ada.Integer_Text_IO;
 
 PACKAGE BODY tools IS
 
-
+-- COUCOU CA VA
    ------------------------------------- PROCEDURE pour saisie string securise ------------------
 
    PROCEDURE Saisie_String (
